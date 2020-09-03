@@ -4,7 +4,7 @@ https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 
 ![casesLines](./visuals/1.PNG)
 ![casesLines](./visuals/2.PNG)
-![casesLines](./visuals/vgg16.PNG)
+![casesLines](./visuals/vgg16.png)
 
 
 # Required Installations
