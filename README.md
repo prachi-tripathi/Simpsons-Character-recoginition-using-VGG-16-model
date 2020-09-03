@@ -2,9 +2,9 @@
 # Data Repository
 https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 
-![casesLines](./output/1.PNG)
-![casesLines](./output/2.PNG)
-![casesLines](./output/vgg16.PNG)
+![casesLines](./visuals/1.PNG)
+![casesLines](./visuals/2.PNG)
+![casesLines](./visuals/vgg16.PNG)
 
 
 # Required Installations
