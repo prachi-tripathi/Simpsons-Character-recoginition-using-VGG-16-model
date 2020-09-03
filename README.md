@@ -5,6 +5,8 @@ https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
 ![casesLines](./visuals/1.PNG)
 ![casesLines](./visuals/2.PNG)
 ![casesLines](./visuals/vgg16.png)
+![casesLines](./visuals/Example-of-max-pooling-and-average-pooling-operations-In-this-example-a-4x4-image-is.png)
+![casesLines](./visuals/max pooling.png)
 
 
 # Required Installations
